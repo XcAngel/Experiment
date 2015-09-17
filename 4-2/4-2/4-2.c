@@ -12,4 +12,5 @@ int main()
 		else printf("数字不符合，请重新输入\n");
 	}
 	printf("n的平方根为	%.0f\n", sqrt(n));
+	return 0;
 }
