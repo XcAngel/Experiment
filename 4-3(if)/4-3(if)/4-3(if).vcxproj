@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{1EC5E1FD-C97E-4EC7-ABD0-8432109C39B5}</ProjectGuid>
+    <ProjectGuid>{7AE0F0FC-9AC5-4F89-A230-B7C278F47261}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My43</RootNamespace>
+    <RootNamespace>My43if</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -146,7 +146,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="4-3.c" />
+    <ClCompile Include="4-3(if).cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
